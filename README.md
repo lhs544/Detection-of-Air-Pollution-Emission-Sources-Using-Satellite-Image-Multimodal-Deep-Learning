@@ -18,6 +18,7 @@ The location of the chimney in the image in the form of a bounding box
 Make a prediction.
 
 ■ Evaluated based on mAP@IoU = 0.5 indicator.
+
 ----
 Mission 2: Estimating emissions
 Height Estimation from Images
@@ -33,6 +34,7 @@ My shape_attributes values are available)
 Estimate the height of my chimney in meters.
 
 ■ Evaluate based on RMSE indicators.
+
 ---
 Mission 3: Finding an Industrial Complex
 Semantic Segmentation
